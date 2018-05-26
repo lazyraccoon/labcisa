@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525730876 source:c:\users\rostislav\ya-wiki\student-manager\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<conio.h>
+	"io.h"
+
+1525647374 c:\users\rostislav\ya-wiki\student-manager\io.h
+
+1525726320 source:c:\users\rostislav\ya-wiki\student-manager\io.cpp
+	<iostream>
+	<string>
+	<limits>
+	<fstream>
+	"io.h"
+
